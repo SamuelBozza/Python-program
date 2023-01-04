@@ -6,3 +6,5 @@ A) Quantas pessoas foram cadastradas
 B) A média de idade
 C) Uma lista com as mulheres
 D) Uma lista de pessoas com idade acima da média
+##
+Clique no 'registro de pessoas' para abrir o código completo ou pode baixar e abrir no seu pycharm/visual
